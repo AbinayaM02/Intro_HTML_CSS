@@ -1,0 +1,53 @@
+/* Enter your custom CSS here */
+h1{
+    font-family: "Verdana", sans-serif;
+    color: #666;
+    font-size: 350%;
+    text-align: center;
+}
+
+h2{
+	font-weight: bold;
+	font-size: x-large;
+    color: #f07c17;
+    font-family: "Verdana", sans-serif;
+}
+
+body{
+	width: 66.66%;
+	margin-left: 25px;
+	margin-top: 25px;
+
+}
+
+.features{
+	border: solid 1px;
+	border-color: #ccc;
+	margin: 15px;
+     width:374px;
+     display: -webkit-flex;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+p{
+	font-weight: normal;
+	font-size: medium;
+	color: #666;
+    margin-top: 30px;
+    margin-bottom:40px;
+   line-height:2;
+}
+
+img{
+	margin: 5px;
+	max-height: 374px;
+	max-width: 374px;
+
+}
+
+.list{
+	font-family: "Verdana", sans-serif;
+	font-weight: normal;
+    position:relative;
+}
